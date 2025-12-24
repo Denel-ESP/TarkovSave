@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1766605317,
+        "UpdateTime": 1766605795,
         "Immortal": false
       },
       "Inventory": {
@@ -5208,7 +5208,7 @@
         "HideoutCounters": null,
         "Seed": "41692b962e6314d43253c1195088374a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1766605522,
+        "sptUpdateLastRunTimestamp": 1766605854,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
