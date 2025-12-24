@@ -20,7 +20,7 @@
         "LowerNickname": "denel-esp",
         "Side": "Bear",
         "Level": 1,
-        "Experience": 200,
+        "Experience": 300,
         "RegistrationDate": 1766603376,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1766605795,
+        "UpdateTime": 1766607121,
         "Immortal": false
       },
       "Inventory": {
@@ -3996,45 +3996,153 @@
             }
           },
           {
-            "_id": "694c4003541f098c2424105f",
-            "_tpl": "63a8970d7108f713591149f5",
+            "_id": "694c4810995e958c3cc835d5",
+            "_tpl": "5e8f3423fd7471236e6e3b64",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 9,
+              "y": 51,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "694c4810995e958c3cc835d6",
+            "_tpl": "5c093e3486f77430cb02e593",
             "parentId": "664113fa049fd2369707c4eb",
             "slotId": "hideout",
             "location": {
               "x": 7,
-              "y": 51,
+              "y": 50,
+              "rotation": false,
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 1
+              "SpawnedInSession": true
             }
           },
           {
-            "_id": "694c4003541f098c24241060",
-            "_tpl": "63a8970d7108f713591149f5",
+            "_id": "694c4814995e958c3cc835d7",
+            "_tpl": "59e3577886f774176a362503",
             "parentId": "664113fa049fd2369707c4eb",
             "slotId": "hideout",
             "location": {
               "x": 0,
               "y": 52,
+              "rotation": false,
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 1
+              "SpawnedInSession": true
             }
           },
           {
-            "_id": "694c4003541f098c24241061",
-            "_tpl": "63a897c6b1ff6e29734fcc95",
+            "_id": "694c4814995e958c3cc835d8",
+            "_tpl": "60b0f93284c20f0feb453da7",
             "parentId": "664113fa049fd2369707c4eb",
             "slotId": "hideout",
             "location": {
-              "x": 2,
+              "x": 1,
               "y": 52,
+              "rotation": false,
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 1
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "694c4819995e958c3cc835d9",
+            "_tpl": "656df4fec921ad01000481a2",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 51,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "694c4819995e958c3cc835da",
+            "_tpl": "5734773724597737fd047c14",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 8,
+              "y": 51,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "694c4819995e958c3cc835db",
+            "_tpl": "57505f6224597709a92585a9",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 5,
+              "y": 52,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "694c4819995e958c3cc835dc",
+            "_tpl": "59faff1d86f7746c51718c9c",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 6,
+              "y": 52,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "694c4819995e958c3cc835dd",
+            "_tpl": "5b7c710788a4506dec015957",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 5,
+              "y": 53,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "694c4819995e958c3cc835de",
+            "_tpl": "5c093e3486f77430cb02e593",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 52,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
             }
           }
         ],
@@ -4113,10 +4221,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0.1,
-            "LastAccess": 1766604844,
+            "PointsEarnedDuringSession": 0.15000000000000002,
+            "LastAccess": 1766606873,
             "Id": "Intellect",
-            "Progress": 0.1
+            "Progress": 0.15000000000000002
           },
           {
             "PointsEarnedDuringSession": 300,
@@ -4708,7 +4816,8 @@
         "660312cc4d6cdfa6f500c703": false,
         "665ee77ccf2d642e98220bca": true,
         "63a897c6b1ff6e29734fcc95": false,
-        "63a8970d7108f713591149f5": false
+        "63a8970d7108f713591149f5": false,
+        "60b0f93284c20f0feb453da7": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -5208,7 +5317,7 @@
         "HideoutCounters": null,
         "Seed": "41692b962e6314d43253c1195088374a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1766605854,
+        "sptUpdateLastRunTimestamp": 1766607995,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -5404,7 +5513,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1717951874,
+        "nextResetTime": 1718211074,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -5422,7 +5531,7 @@
         "LowerNickname": "",
         "Side": "Savage",
         "Level": 1,
-        "Experience": 200,
+        "Experience": 300,
         "RegistrationDate": 1766603376,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -6024,7 +6133,8 @@
         "660312cc4d6cdfa6f500c703": false,
         "665ee77ccf2d642e98220bca": true,
         "63a897c6b1ff6e29734fcc95": false,
-        "63a8970d7108f713591149f5": false
+        "63a8970d7108f713591149f5": false,
+        "60b0f93284c20f0feb453da7": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -6207,6 +6317,12 @@
         "author": "Fika",
         "dateAdded": 1766605317,
         "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "Dynamic Maps",
+        "version": "1.0.4",
+        "author": "mpstark",
+        "dateAdded": 1766607121
       }
     ],
     "receivedGifts": [
