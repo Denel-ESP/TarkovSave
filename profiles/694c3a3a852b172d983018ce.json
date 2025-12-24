@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1766604803,
+        "UpdateTime": 1766605317,
         "Immortal": false
       },
       "Inventory": {
@@ -5208,7 +5208,7 @@
         "HideoutCounters": null,
         "Seed": "41692b962e6314d43253c1195088374a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1766604875,
+        "sptUpdateLastRunTimestamp": 1766605522,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -6200,7 +6200,15 @@
   },
   "spt": {
     "version": "4.0.9 (40087)",
-    "mods": [],
+    "mods": [
+      {
+        "name": "server",
+        "version": "2.0.9",
+        "author": "Fika",
+        "dateAdded": 1766605317,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      }
+    ],
     "receivedGifts": [
       {
         "giftId": "MechanicGiftDay1",
