@@ -61,11 +61,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 94,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 92,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -75,48 +75,48 @@
         "BodyParts": {
           "Chest": {
             "Health": {
-              "Current": 81,
+              "Current": 85,
               "Maximum": 85
             }
           },
           "Head": {
             "Health": {
-              "Current": 34,
+              "Current": 35,
               "Maximum": 35
             }
           },
           "LeftArm": {
             "Health": {
-              "Current": 57,
+              "Current": 60,
               "Maximum": 60
             }
           },
           "LeftLeg": {
             "Health": {
-              "Current": 62,
+              "Current": 65,
               "Maximum": 65
             }
           },
           "RightArm": {
             "Health": {
-              "Current": 57,
+              "Current": 60,
               "Maximum": 60
             }
           },
           "RightLeg": {
             "Health": {
-              "Current": 62,
+              "Current": 65,
               "Maximum": 65
             }
           },
           "Stomach": {
             "Health": {
-              "Current": 67,
+              "Current": 70,
               "Maximum": 70
             }
           }
         },
-        "UpdateTime": 1766611621,
+        "UpdateTime": 1766710398,
         "Immortal": false
       },
       "Inventory": {
@@ -6119,7 +6119,7 @@
         "HideoutCounters": null,
         "Seed": "41692b962e6314d43253c1195088374a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1766611903,
+        "sptUpdateLastRunTimestamp": 1766710484,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -7213,6 +7213,58 @@
         }
       ],
       "_id": "694c4e5d00ee334158bdf509"
+    },
+    "54cb50c76803fa8b248b4571": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 2,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "694ddc7e66a61b26c060d885",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 13,
+          "dt": 1766710398,
+          "templateId": "5fd4c8b59e4b2a58b34bbd28 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "64b996c9d0de4697180359b6",
+            "data": [
+              {
+                "_id": "694ddc7e66a61b26c060d886",
+                "_tpl": "544fb45d4bdc2dee738b4568",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "694ddc7e66a61b26c060d887",
+                "_tpl": "5d02778e86f774203e7dedbe",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "694ddc7e66a61b26c060d888",
+                "_tpl": "6034d0230ca681766b6a0fb5",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        }
+      ],
+      "_id": "54cb50c76803fa8b248b4571"
     }
   },
   "spt": {
@@ -7247,6 +7299,11 @@
       {
         "giftId": "Christmas2022",
         "timestampLastAccepted": 1766604803,
+        "current": 1
+      },
+      {
+        "giftId": "PraporGiftDay1",
+        "timestampLastAccepted": 1766710398,
         "current": 1
       }
     ],
